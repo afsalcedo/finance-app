@@ -19,7 +19,7 @@
     "get-mongodb-version": "^2.0.1",
     "helmet": "^7.0.0",
     "mongodb": "^6.0.0",
-    "mongoose": "^7.0.0",
+    "mongoose": "^7.5.0",
     "mongoose-currency": "^0.2.0",
     "morgan": "^1.10.0"
   },
